@@ -12,6 +12,10 @@
       "require": "./dist/react-progress-ring.umd.js"
     }
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boedegoat/react-progress-ring"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
