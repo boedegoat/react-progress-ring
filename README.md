@@ -11,7 +11,7 @@ npm i react-progress-ring
 ## Usage
 
 ```tsx
-import ProgressRing from 'npm i react-progress-ring'
+import ProgressRing from 'react-progress-ring'
 
 const App = () => {
   return (
