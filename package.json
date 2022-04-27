@@ -1,6 +1,6 @@
 {
   "name": "react-progress-ring",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "files": [
     "dist"
   ],
@@ -25,6 +25,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.27",
     "@types/react": "^18.0.0",
